@@ -2,5 +2,5 @@
 *.pkl
 *.gz
 /.ipynb_checkpoints
-/dataset
+#/dataset
 /training
