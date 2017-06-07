@@ -1,0 +1,6 @@
+# Built application files
+*.pkl
+*.gz
+/.ipynb_checkpoints
+/dataset
+/training
